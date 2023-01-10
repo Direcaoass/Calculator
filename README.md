@@ -1,1 +1,1 @@
-# Calculator with keyboard input.
+# Simple calculator with keyboard input.
